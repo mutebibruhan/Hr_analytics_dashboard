@@ -1,0 +1,18 @@
+Data Issues found:
+- Missing values in Email, Gender, and PerformanceRating......
+- Inconsistent HireDate formats-----
+- UAE phone numbers with and without +971 prefix----
+- Salary values with and without AED label......
+- Duplicate EmployeeID records and near-duplicate names-----
+- Outliers in salary and leave days.......
+- Inconsistent department/job title capitalization and naming-----
+- Numbers stored as text
+- Extra spaces and inconsistent capitalization in FullName----
+
+Business Questions:
+1. What is the headcount by department and branch city?
+2. Which departments have the highest average salaries?
+3. What are the hiring trends from 2024 to 2026?
+4. Is there a relationship between leave days taken and performance ratings?
+5. Which branch has the highest concentration of contract employees?
+6. What is the salary distribution across nationalities and job titles?

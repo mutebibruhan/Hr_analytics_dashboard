@@ -1,0 +1,448 @@
+EmployeeID,FullName,Email,Phone,Gender,Nationality,JobTitle,Department,BranchCity,EmploymentType,ManagerID,rn,HireDate,SalaryAED,LeaveDaysTaken,PerformanceRating
+EMP1000,"SOPHIA COLLIER",thompsondan@campos.biz,+971884493011,NULL,Jordanian,"Senior accountant",IT,"Abu Dhabi",Intern,EMP1277,1,2024-10-11,21687.00,18,1
+EMP1001,"AMBER MCCARTHY",burketheodore@gmail.com,+971209943256,Male,Jordanian,"Sales executive","Human Resources","Abu Dhabi",Contract,EMP1024,1,2025-11-13,28488.00,13,3
+EMP1002,"KELLY BEAN","kelly bean@nomail.com",+971780864960,Male,Filipino,IT,Finance,Sharjah,Part-Time,EMP1184,1,2026-03-19,21878.00,NULL,3
+EMP1003,"TAMARA GREEN",cooleylisa@fisher.net,+971152923474,Female,Bangladeshi,"HR Manager","Human Resources",Dubai,Full-Time,EMP1410,1,2025-08-15,40369.00,17,3
+EMP1004,"KRYSTAL BROWN","krystal brown@nomail.com",+971898021394,Female,Lebanese,"Data analyst",Finance,Sharjah,Contract,EMP1133,1,2025-02-11,28730.00,17,1
+EMP1005,"ALLEN SMALL",richardballard@thompson-barajas.com,+971668713578,NULL,Egyptian,Accountant,Operations,Dubai,Contract,EMP1399,1,2024-08-31,18179.00,25,3
+EMP1006,"RANDY THOMAS",christine84@kemp.info,+971345921560,Male,Syrian,"Marketing specialist","Human Resources",Sharjah,Part-Time,EMP1099,1,2025-01-25,29290.00,27,3
+EMP1007,"JULIE MILLER",tthomas@becker.info,+971001811856,Female,Sudanese,"IT Support",Operations,Sharjah,Part-Time,EMP1268,1,2023-10-22,26016.00,24,5
+EMP1008,"KAREN CLARK",gilbertwalton@rios.com,+971698650710,Female,Bangladeshi,IT,IT,"Abu Dhabi",Full-Time,EMP1369,1,2025-02-22,14699.00,15,3
+EMP1009,"MATTHEW JONES",jimenezethan@cooper.com,+971066056026,NULL,Sudanese,"Data analyst",Finance,Sharjah,Part-Time,EMP1342,1,2024-04-29,31943.00,16,1
+EMP1010,"CALVIN HORTON",darren27@martin.com,+971023519553,Male,Indian,IT,"Human Resources",Sharjah,Part-Time,EMP1265,1,2025-03-12,41290.00,12,1
+EMP1011,"DANIELLE DUNN",eric85@gmail.com,+971170724699,Female,Indian,"HR Manager",Finance,"Abu Dhabi",Full-Time,EMP1237,1,2025-08-23,15778.00,0,3
+EMP1012,"GREGORY HOGAN",hgolden@gmail.com,+971151154711,Female,British,"IT Support",IT,Sharjah,Part-Time,EMP1045,1,2026-01-26,27690.00,14,3
+EMP1013,"HENRY BARBER",hollyvaughn@casey.net,+971441137474,Female,Bangladeshi,IT,IT,"Abu Dhabi",Intern,EMP1006,1,2024-03-17,5609.00,27,3
+EMP1014,"SHAWN HARRINGTON",mark21@hotmail.com,+971254865862,Female,Indian,"Senior accountant","Human Resources",Sharjah,Full-Time,EMP1331,1,2023-06-27,16547.00,14,5
+EMP1015,"HEATHER PAUL DDS",carlsimmons@fuller.biz,+971862936027,Male,British,"Marketing specialist",Sales,"Abu Dhabi",Part-Time,EMP1200,1,2025-06-14,8626.00,35,1
+EMP1016,"NICOLE JIMENEZ",rebecca85@gmail.com,+971941074979,Male,Sudanese,"Software Engineer",Sales,Sharjah,Part-Time,EMP1386,1,2025-08-03,18538.00,3,5
+EMP1017,"CYNTHIA KING",claytonbrian@mcknight.com,+971448513609,Male,British,"Marketing specialist",Admin,"Abu Dhabi",Full-Time,EMP1042,1,2025-07-06,19153.00,7,3
+EMP1018,"OLIVIA GLASS",maxwelljennifer@beard.info,+971951749832,Male,Jordanian,"Software Engineer",Finance,Sharjah,Contract,EMP1221,1,2026-01-01,3752.00,22,5
+EMP1019,"MEGHAN SANTIAGO",angelaanthony@yahoo.com,+971516727503,NULL,Syrian,"HR Manager",Finance,Sharjah,Contract,EMP1111,1,2024-10-22,34569.00,28,4
+EMP1020,"WENDY MARTIN",coxricky@gmail.com,+971428463835,NULL,Jordanian,IT,"Human Resources",Dubai,Part-Time,EMP1314,1,2024-04-24,33774.00,4,2
+EMP1021,"EMILY ALLEN",carlsoncaitlin@gmail.com,+971631942941,Female,Filipino,"Software Engineer",IT,Dubai,Intern,EMP1168,1,2025-04-02,43093.00,17,4
+EMP1022,"RONALD SMITH",victoria82@gmail.com,+971071682959,Male,Indian,"Data analyst","Human Resources","Abu Dhabi",Full-Time,EMP1120,1,2025-11-23,6439.00,34,3
+EMP1023,"LINDA HENRY","linda henry@nomail.com",+971326383723,Female,Filipino,"Data analyst",IT,"Abu Dhabi",Full-Time,EMP1044,1,2025-10-21,3402.00,21,3
+EMP1024,"KRISTY DAVIS",merrittoscar@hotmail.com,+971505204309,NULL,Jordanian,"Software Engineer",IT,"Abu Dhabi",Intern,EMP1243,1,2026-05-16,40056.00,8,3
+EMP1025,"MICHAEL RITTER",qbrown@hotmail.com,+971678297279,Male,UAE,"IT Support","Human Resources",Sharjah,Full-Time,EMP1204,1,2025-04-27,12807.00,3,3
+EMP1026,"JACLYN BENSON",lynndickerson@yahoo.com,+971671675560,Female,Filipino,IT,IT,"Abu Dhabi",Intern,EMP1008,1,2025-04-06,21920.00,8,2
+EMP1027,"BRANDON LAMBERT",carsondevin@oliver-lynch.com,+971448187472,Female,British,"HR Manager",IT,Sharjah,Intern,EMP1226,1,2025-11-23,16951.00,18,1
+EMP1028,"RICHARD AYERS",lwallace@gmail.com,+971065374871,Male,Egyptian,IT,Operations,Sharjah,Part-Time,EMP1426,1,2025-05-02,4871.00,26,2
+EMP1029,"RANDY BAIRD",kayla98@hotmail.com,+971019107069,Female,Jordanian,"Operations manager",Sales,Sharjah,Contract,EMP1051,1,2026-05-22,16864.00,20,4
+EMP1030,"MAUREEN CALLAHAN",hpatterson@jackson-steele.net,+971058078138,Female,Syrian,"Marketing specialist",Finance,"Abu Dhabi",Intern,EMP1300,1,2024-12-15,8385.00,17,3
+EMP1031,"DIANE WILLIAMS",agarcia@hanson.org,+971571171275,Male,Sudanese,"Software Engineer",Marketing,Dubai,Part-Time,EMP1414,1,2024-11-14,15173.00,18,5
+EMP1032,"TRACY WILLIAMS",jennifer58@yahoo.com,+971772936670,Male,Jordanian,"Data analyst",IT,Sharjah,Intern,EMP1029,1,2024-03-23,39998.00,9,4
+EMP1033,"JOE MITCHELL",briana91@hotmail.com,+971835337171,Female,Bangladeshi,IT,Operations,Dubai,Full-Time,EMP1091,1,2026-04-12,4056.00,16,4
+EMP1034,"RACHEL WEST","rachel west@nomail.com",+971643597740,NULL,Filipino,IT,IT,"Abu Dhabi",Full-Time,EMP1144,1,2025-04-01,37427.00,30,1
+EMP1035,"DAWN STEVENSON",cassandrahensley@orr.org,+971534003467,Female,UAE,"HR Manager",Finance,"Abu Dhabi",Full-Time,EMP1067,1,2023-10-21,9711.00,15,5
+EMP1036,"REBECCA TAYLOR","rebecca taylor@nomail.com",+971619450473,Female,Jordanian,"IT Support",Finance,Sharjah,Part-Time,EMP1070,1,2025-02-03,42514.00,31,4
+EMP1037,"CYNTHIA BOWEN",wsanchez@garcia.info,+971929195436,Male,UAE,"Data analyst",IT,Sharjah,Full-Time,EMP1280,1,2025-02-14,23937.00,15,3
+EMP1038,"MICHAEL BRIGGS",hansonashley@hotmail.com,+971594405254,Male,Egyptian,"Software Engineer",Admin,Sharjah,Contract,EMP1325,1,2025-08-10,27272.00,4,3
+EMP1039,"JAMES HUGHES",catherine69@armstrong-love.info,+971841732551,Female,Egyptian,"HR Manager",IT,"Abu Dhabi",Part-Time,EMP1395,1,2025-03-08,13870.00,31,3
+EMP1040,"JILL BLANKENSHIP MD",atate@smith.com,+971344112361,NULL,Indian,"IT Support",Sales,"Abu Dhabi",Intern,EMP1089,1,2023-10-31,32550.00,31,3
+EMP1041,"SCOTT ALVARADO",karen10@gmail.com,+971500977431,Female,Sudanese,Accountant,Finance,"Abu Dhabi",Intern,EMP1240,1,2025-04-02,43110.00,21,3
+EMP1042,"BROOKE GRANT",moraleshoward@gmail.com,+971796818614,Female,Lebanese,"IT Support",Marketing,Dubai,Intern,EMP1138,1,2025-11-19,6226.00,12,3
+EMP1043,"CHRISTOPHER HURST",pearsonmeredith@adams.com,+971508410573,Female,British,"Senior accountant",IT,"Abu Dhabi",Contract,EMP1274,1,2025-10-01,33727.00,13,5
+EMP1044,"DANIELLE FLORES",lhernandez@ochoa.com,+971653444779,Male,Pakistani,"Data analyst","Human Resources","Abu Dhabi",Contract,EMP1131,1,2025-02-24,44363.00,10,5
+EMP1045,"DONNA BARBER",victor49@gmail.com,+971429991856,Male,Pakistani,"Software Engineer",Finance,Dubai,Intern,EMP1423,1,2024-05-01,3425.00,31,4
+EMP1046,"KEVIN WIGGINS",erinperry@williamson-taylor.biz,+971832588379,Female,Lebanese,"Sales executive",Finance,Sharjah,Contract,EMP1222,1,2025-02-13,15323.00,22,1
+EMP1047,"THOMAS LEWIS",hjones@ruiz-lewis.com,+971870251003,Female,Sudanese,"HR Manager",Marketing,Sharjah,Full-Time,EMP1394,1,2024-05-06,4949.00,21,3
+EMP1048,"KAR3N GONZAL3Z",osmith@brewer.com,+971802046547,Male,UAE,IT,Admin,"Abu Dhabi",Part-Time,EMP1142,1,2024-02-07,18795.00,29,2
+EMP1049,"RICHARD EVANS",kspencer@gmail.com,+971114390449,Male,British,"IT Support",Admin,"Abu Dhabi",Part-Time,EMP1009,1,2026-04-26,35349.00,12,1
+EMP1050,"STEPHEN MENDEZ",elizabethlopez@rhodes.org,+971802552672,Male,Sudanese,"HR Manager","Human Resources",Sharjah,Part-Time,EMP1014,1,2024-11-10,11740.00,2,3
+EMP1051,"LISA JENNINGS",phouston@hotmail.com,+971804834843,Female,Pakistani,"Sales executive",Admin,Dubai,Contract,EMP1039,1,2025-02-01,13555.00,31,5
+EMP1052,"ASHLEY RAY",michellecooper@hotmail.com,+971751765251,NULL,Indian,"Sales executive",Admin,Dubai,Contract,EMP1197,1,2025-08-16,6985.00,1,3
+EMP1053,"SARA ROBERTS",hoffmanvernon@davis-walker.com,+971049719728,Male,Jordanian,"IT Support",Admin,Sharjah,Contract,EMP1046,1,2025-08-01,44609.00,24,3
+EMP1054,"SYLVIA SMITH",frankgill@hotmail.com,+971029257620,NULL,UAE,"IT Support",Admin,Dubai,Part-Time,EMP1072,1,2025-08-04,6752.00,15,3
+EMP1055,"KEVIN HOOVER",antoniomarshall@martinez.org,+971666903364,Female,British,"Sales executive","Human Resources",Dubai,Full-Time,EMP1322,1,2024-11-04,30946.00,6,3
+EMP1056,"JACLYN MARTINEZ",wilsonjoshua@gmail.com,+971265888102,NULL,Bangladeshi,"Software Engineer",Finance,Sharjah,Full-Time,EMP1174,1,2026-02-21,38315.00,2,2
+EMP1057,"BRIAN GREEN",baileyalexis@tanner.com,+971281042280,Female,UAE,"Software Engineer",Marketing,Sharjah,Intern,EMP1046,1,2024-12-17,41573.00,21,1
+EMP1058,"TIMOTHY BAKER",ashley15@hughes-garner.info,+971661009509,NULL,Syrian,"HR Manager","Human Resources",Dubai,Contract,EMP1407,1,2024-05-17,26729.00,32,2
+EMP1059,"STEPHANIE MARTINEZ",rangelmark@barrett.info,+971298091132,Female,Syrian,"Software Engineer",Finance,Sharjah,Contract,EMP1219,1,2026-04-11,18950.00,4,3
+EMP1060,"KRISTEN TAYLOR",heather52@yahoo.com,+971928596270,Male,Pakistani,IT,Finance,"Abu Dhabi",Full-Time,EMP1085,1,2026-04-28,38493.00,31,3
+EMP1061,"ANDREA TAYLOR",cassandra69@williams-hancock.com,+971084775838,Male,Syrian,"Data analyst",IT,"Abu Dhabi",Full-Time,EMP1154,1,2025-11-28,16619.00,34,3
+EMP1062,"COURTNEY ORTEGA",murphysonya@bowman-madden.com,+971449745793,NULL,UAE,"IT Support",Sales,Sharjah,Contract,EMP1378,1,2025-11-23,32386.00,3,5
+EMP1063,"TRAVIS DOWNS",sototravis@galvan.com,+971130836364,Female,Lebanese,IT,"Human Resources","Abu Dhabi",Contract,EMP1232,1,2023-10-29,35865.00,7,4
+EMP1064,"COURTNEY BROWN",mcbrideapril@yahoo.com,+971037861556,Female,UAE,"Software Engineer",Admin,Sharjah,Full-Time,EMP1145,1,2025-04-09,37562.00,20,3
+EMP1065,"SHANNON SMITH",davischristopher@stewart.org,+971864890522,NULL,UAE,Accountant,Marketing,"Abu Dhabi",Full-Time,EMP1121,1,2026-02-12,44419.00,22,3
+EMP1066,"LARRY CONTRERAS",jacob07@salas.com,+971701674593,Female,Filipino,"Senior accountant",IT,Dubai,Part-Time,EMP1129,1,2025-08-27,18350.00,17,3
+EMP1067,"AARON FOSTER",charlesgeorge@webster-smith.com,+971689751021,Male,Filipino,"Software Engineer",Admin,"Abu Dhabi",Contract,EMP1127,1,2024-02-29,15219.00,27,3
+EMP1068,"DONALD COOPER",ruthjefferson@yahoo.com,+971672198908,Female,UAE,"Software Engineer","Human Resources","Abu Dhabi",Part-Time,EMP1141,1,2025-07-07,37360.00,12,2
+EMP1069,"CHRIS WAGNER",jbrown@hotmail.com,+971093670674,Male,Pakistani,"Software Engineer",Operations,"Abu Dhabi",Part-Time,EMP1389,1,2023-05-31,27046.00,27,2
+EMP1070,"KEVIN THOMPSON",jessicathomas@gmail.com,+971806173630,Female,Syrian,"Data analyst",IT,Sharjah,Part-Time,EMP1203,1,2025-03-19,12266.00,10,5
+EMP1071,"SHANE LOGAN",shawnhopkins@hotmail.com,+971310042510,Female,Sudanese,"IT Support","Human Resources",Dubai,Contract,EMP1444,1,2025-03-10,9818.00,10,3
+EMP1072,"JAMES SMITH",jeffery45@mason.com,+971603221826,Male,Sudanese,"Senior accountant",Admin,Dubai,Intern,EMP1012,1,2024-04-19,36283.00,8,1
+EMP1073,"LISA BALDWIN",wrightbreanna@montes.com,+971275704792,Female,Jordanian,"Data analyst",IT,Sharjah,Part-Time,EMP1405,1,2024-12-20,8457.00,27,3
+EMP1074,"BRENT WOLF",osingh@hotmail.com,+971715915181,Female,British,"HR Manager",Admin,Dubai,Contract,EMP1016,1,2026-04-10,5325.00,4,3
+EMP1075,"CASEY LYNCH","casey lynch@nomail.com",+971688662088,Male,Pakistani,"HR Manager","Human Resources",Sharjah,Intern,EMP1097,1,2024-01-03,24344.00,21,3
+EMP1076,"MATTHEW WILSON",matthew44@hotmail.com,+971526394979,Male,Egyptian,"Software Engineer",IT,Sharjah,Intern,EMP1333,1,2023-08-25,21473.00,27,3
+EMP1077,"CODY TUCKER",galvancarolyn@valencia.com,+971979380207,NULL,Jordanian,"Marketing specialist",Admin,Sharjah,Intern,EMP1022,1,2024-08-19,34468.00,9,3
+EMP1078,"ERICA LARSON","erica larson@nomail.com",+971132969428,Male,Lebanese,"HR Manager",Sales,"Abu Dhabi",Full-Time,EMP1036,1,2023-09-07,21872.00,11,3
+EMP1079,"PATRICK LOPEZ",adam14@hotmail.com,+971081439797,Male,Pakistani,IT,Finance,Dubai,Part-Time,EMP1183,1,2025-01-02,3897.00,25,1
+EMP1080,"JEREMY SULLIVAN",pauljennings@swanson.com,+971634061808,Male,Lebanese,IT,Operations,"Abu Dhabi",Contract,EMP1372,1,2023-12-28,32564.00,9,3
+EMP1081,"ERIK SCOTT",peterskenneth@smith.com,+971143151427,Male,Pakistani,"Software Engineer","Human Resources",Dubai,Intern,EMP1073,1,2023-07-29,10189.00,34,3
+EMP1082,"ROBERT MITCHELL",lgarcia@myers.biz,+971347398534,Male,Lebanese,"Sales executive",Finance,Sharjah,Full-Time,EMP1134,1,2024-11-27,12928.00,15,3
+EMP1083,"MICHA3L K3LL3R",rebeccaayers@hotmail.com,+971186876792,Male,Egyptian,"Software Engineer",Admin,"Abu Dhabi",Contract,EMP1108,1,2025-11-04,20046.00,31,3
+EMP1084,"BRADLEY WILSON",nwallace@yahoo.com,+971218170363,Male,Pakistani,"Senior accountant",Admin,"Abu Dhabi",Full-Time,EMP1294,1,2024-02-24,39752.00,11,1
+EMP1085,"SAMANTHA DYER",nicholas02@vincent.info,+971741910997,NULL,British,"Data analyst","Human Resources","Abu Dhabi",Full-Time,EMP1414,1,2023-10-15,38794.00,8,3
+EMP1086,"LAUREN MILLS",cindy12@davis-davidson.com,+971809595107,Male,Jordanian,"Software Engineer","Human Resources","Abu Dhabi",Part-Time,EMP1105,1,2026-04-07,3751.00,33,3
+EMP1087,"TIMOTHY WOODS",michael49@mueller.com,+971590666731,Female,Sudanese,IT,Operations,Dubai,Contract,EMP1426,1,2024-06-01,24432.00,30,3
+EMP1088,"DANA CUNNINGHAM",woodardjerry@hotmail.com,+971625958402,Female,Pakistani,"Software Engineer",Marketing,Sharjah,Part-Time,EMP1010,1,2023-09-13,30280.00,15,3
+EMP1089,"TERESA DONOVAN",thomasdanielle@reynolds.biz,+971150921435,Male,Syrian,IT,Operations,Dubai,Contract,EMP1198,1,2026-01-28,16219.00,2,3
+EMP1090,"NATASHA SMITH MD",larry37@yahoo.com,+971578283707,Male,British,"Software Engineer",IT,Dubai,Full-Time,EMP1314,1,2024-06-21,24136.00,0,4
+EMP1091,"TERRY CURRY",michael91@yahoo.com,+971812745994,Female,Indian,"Sales executive",IT,Dubai,Contract,EMP1446,1,2025-07-30,6150.00,31,3
+EMP1092,"JOSHUA OCONNOR",wwang@gmail.com,+971656862346,Female,Filipino,IT,Marketing,Sharjah,Contract,EMP1432,1,2024-03-12,36727.00,27,2
+EMP1093,"CHRISTOPHER THOMPSON",pmejia@smith.com,+971553973096,Female,Pakistani,"HR Manager",IT,"Abu Dhabi",Full-Time,EMP1040,1,2025-06-30,12377.00,10,3
+EMP1094,"RICHARD EVANS",christine46@hotmail.com,+971783447217,Male,Filipino,"Software Engineer",Operations,"Abu Dhabi",Full-Time,EMP1261,1,2025-10-21,41859.00,4,3
+EMP1095,"KIMBERLY KERR",dyermargaret@gmail.com,+971196715112,Female,Egyptian,"Software Engineer",Admin,Dubai,Full-Time,EMP1444,1,2025-02-04,19496.00,10,2
+EMP1096,"KYLE KING",ngreer@yahoo.com,+971713439754,Female,British,"HR Manager",Finance,"Abu Dhabi",Full-Time,EMP1379,1,2023-11-11,10313.00,10,4
+EMP1097,"MICHELE MOYER",danderson@yahoo.com,+971376495847,Female,Jordanian,"Data analyst",IT,"Abu Dhabi",Contract,EMP1284,1,2024-03-24,8053.00,1,1
+EMP1098,"ALEXANDER HARPER",grayjillian@braun-davis.com,+971050639043,NULL,UAE,"IT Support",Marketing,Sharjah,Contract,EMP1046,1,2024-05-30,10524.00,10,1
+EMP1099,"TERESA DAWSON",zamoraian@gmail.com,+971742418661,Male,Pakistani,IT,Operations,Sharjah,Part-Time,EMP1065,1,2024-02-19,15363.00,5,5
+EMP1100,"SANDRA WRIGHT",paul96@hotmail.com,+971463525288,Female,Syrian,"IT Support",IT,"Abu Dhabi",Full-Time,EMP1401,1,2024-10-04,33362.00,10,3
+EMP1101,"CHRISTIAN SHIELDS",trevorsmith@bryant.info,+971780244608,Female,Bangladeshi,"Software Engineer",Admin,"Abu Dhabi",Contract,EMP1142,1,2024-10-24,7281.00,10,3
+EMP1102,"JESSICA SHARP",fsharp@hotmail.com,+971371773954,Male,Sudanese,"Software Engineer",Sales,Dubai,Full-Time,EMP1167,1,2024-06-06,8758.00,24,3
+EMP1103,"WALTER ANDERSON MD",jennifer04@morton.com,+971946133966,Female,Sudanese,"HR Manager",Operations,Dubai,Intern,EMP1364,1,2025-02-13,11578.00,30,2
+EMP1104,"BRADLEY CHAVEZ",emilymoyer@yahoo.com,+971742890128,Female,Filipino,IT,Operations,Dubai,Full-Time,EMP1067,1,2024-04-16,36628.00,34,5
+EMP1105,"ANTHONY NELSON",richardmarshall@gmail.com,+971470353800,Female,Bangladeshi,"HR Manager",Admin,Sharjah,Full-Time,EMP1349,1,2023-12-17,12937.00,26,3
+EMP1106,"KRYSTAL ROSS",jdavis@ryan-orr.net,+971647581894,Male,Jordanian,"IT Support",Operations,"Abu Dhabi",Part-Time,EMP1447,1,2023-11-06,37229.00,23,3
+EMP1107,"ANGELA ATKINS MD",amandawilliams@hotmail.com,+971839720855,Female,Filipino,"Sales executive",IT,Dubai,Contract,EMP1431,1,2023-06-13,29458.00,NULL,5
+EMP1108,"KIMBERLY ROGERS",carriesolomon@ortega.com,+971605168032,Female,Sudanese,"Data analyst",Finance,Sharjah,Contract,EMP1266,1,2024-10-15,8203.00,29,1
+EMP1109,"CHARLES FLORES",mike41@cardenas-hansen.com,+971801872432,Male,Indian,"Sales executive",Marketing,Dubai,Part-Time,EMP1442,1,2026-02-02,12755.00,10,5
+EMP1110,"STEVEN SMITH",david76@yahoo.com,+971193919961,Male,Egyptian,"Data analyst",Finance,Sharjah,Part-Time,EMP1100,1,2023-10-23,18530.00,14,3
+EMP1111,"JON BENNETT",donald16@knight.com,+971090159269,NULL,Jordanian,"IT Support",Marketing,"Abu Dhabi",Full-Time,EMP1081,1,2024-06-23,23626.00,26,3
+EMP1112,"BRENDA PETERSEN",kboyd@hotmail.com,+971524720040,Female,Egyptian,IT,Admin,Sharjah,Contract,EMP1428,1,2023-12-28,37566.00,28,4
+EMP1113,"THOMAS BUSH",stephenhayes@williams.net,+971770806862,Male,Bangladeshi,IT,Sales,Sharjah,Intern,EMP1437,1,2025-10-25,24975.00,31,3
+EMP1114,"MICHELLE COOK",stephaniereed@douglas.com,+971178874184,Male,Jordanian,"IT Support",Finance,Dubai,Contract,EMP1340,1,2023-07-27,9722.00,23,1
+EMP1115,"ANDREA TREVINO","andrea trevino@nomail.com",+971157040092,Female,Bangladeshi,"IT Support",IT,Dubai,Contract,EMP1162,1,2025-03-31,7703.00,10,5
+EMP1116,"LINDSEY WILLIAMS",jaredstephenson@gmail.com,+971881212489,NULL,Lebanese,"Software Engineer",IT,Dubai,Intern,EMP1186,1,2024-08-28,16001.00,34,3
+EMP1117,"LISA BRIGGS",william41@hughes-williams.com,+971880959072,Male,Egyptian,"Operations manager",Finance,"Abu Dhabi",Full-Time,EMP1085,1,2026-02-13,30791.00,12,3
+EMP1118,"MARK PATTON",janicethomas@yahoo.com,+971087713839,Female,Jordanian,"Sales executive",Marketing,Dubai,Contract,EMP1226,1,2024-12-28,31779.00,6,3
+EMP1119,"NATHANIEL BAKER",christopherdiaz@hotmail.com,+971030633501,Male,Pakistani,"Operations manager","Human Resources","Abu Dhabi",Part-Time,EMP1320,1,2026-02-28,20532.00,27,1
+EMP1120,"CODY ROSS",vsnyder@gmail.com,+971359501515,Male,Jordanian,Accountant,"Human Resources",Sharjah,Contract,EMP1339,1,2024-01-05,3996.00,1,4
+EMP1121,"MARY RIVERA",thomaskimberly@taylor-sexton.com,+971067449681,Female,Filipino,"Data analyst",IT,Dubai,Contract,EMP1208,1,2023-07-12,40819.00,7,4
+EMP1122,"VICTORIA ADAMS",lisa51@yahoo.com,+971112426038,Female,British,IT,IT,Dubai,Intern,EMP1346,1,2026-01-24,20837.00,14,3
+EMP1123,"JACQUELINE ARNOLD",jenkinscharles@lawson.org,+971803941759,Female,Pakistani,"Software Engineer",Sales,Sharjah,Part-Time,EMP1428,1,2026-03-04,15497.00,1,3
+EMP1124,"CYNTHIA SCHAEFER",carolynanderson@gmail.com,+971203112442,Male,Egyptian,IT,Marketing,Sharjah,Contract,EMP1043,1,2023-06-21,9816.00,14,3
+EMP1125,"SARAH MIRANDA",amyhill@hotmail.com,+971475416673,Female,British,"Software Engineer",Admin,"Abu Dhabi",Full-Time,EMP1042,1,2024-12-02,20536.00,7,3
+EMP1126,"TRACY KELLY",whogan@gmail.com,+971769763298,Female,Jordanian,"Marketing specialist",Finance,Sharjah,Full-Time,EMP1304,1,2026-04-09,39876.00,25,3
+EMP1127,"SHANNON DOMINGUEZ","shannon dominguez@nomail.com",+971061209864,Female,Indian,"Sales executive",IT,Dubai,Intern,EMP1264,1,2023-09-26,34361.00,25,1
+EMP1128,"DOUGLAS MARTINEZ JR.",ygarcia@yahoo.com,+971691949883,NULL,Pakistani,"IT Support",Finance,Dubai,Full-Time,EMP1003,1,2024-05-08,24078.00,3,2
+EMP1129,"MRS. SHIRLEY LEWIS DDS","mrs. shirley lewis dds@nomail.com",+971515936851,Female,UAE,IT,Finance,"Abu Dhabi",Intern,EMP1127,1,2024-04-12,41544.00,11,2
+EMP1130,"HARRY ROBLES",susanallen@yahoo.com,+971710522284,Female,UAE,"Senior accountant",Admin,Sharjah,Intern,EMP1053,1,2025-04-18,12226.00,6,3
+EMP1131,"JOHNNY HUNT",kelli10@bell-campbell.org,+971030950091,Male,UAE,Accountant,IT,Dubai,Full-Time,EMP1146,1,2025-04-01,34837.00,22,3
+EMP1132,"LINDA HAAS",elliottchristine@ortega.biz,+971566864512,Male,British,"Software Engineer",Admin,Sharjah,Contract,EMP1310,1,2026-04-07,7257.00,5,3
+EMP1133,"MRS. BRENDA BAILEY",prattrobert@yahoo.com,+971425436212,Female,Syrian,IT,"Human Resources",Dubai,Intern,EMP1288,1,2024-04-13,38932.00,32,3
+EMP1134,"SARAH ROCHA",wilsonsandra@wood.net,+971527929028,Male,British,IT,IT,Sharjah,Full-Time,EMP1052,1,2023-10-13,44610.00,9,1
+EMP1135,"CONNOR PACE",burnettandrew@gmail.com,+971108939524,Male,Indian,"IT Support",IT,"Abu Dhabi",Part-Time,EMP1306,1,2026-04-22,21107.00,26,5
+EMP1136,"BRENDA KING",nancyburgess@yahoo.com,+971332032322,NULL,Sudanese,"Senior accountant","Human Resources",Dubai,Full-Time,EMP1231,1,2025-04-20,10124.00,26,3
+EMP1137,"NANCY BRADFORD","nancy bradford@nomail.com",+971134672591,Male,Egyptian,"Software Engineer",Finance,Dubai,Contract,EMP1298,1,2025-08-11,5078.00,12,3
+EMP1138,"NICHOLAS HUBER",patriciahunt@schwartz.com,+971916980967,Male,Pakistani,"HR Manager",Finance,Dubai,Full-Time,EMP1057,1,2026-02-11,31774.00,27,5
+EMP1139,"PATRICIA MILLER",cassie89@gmail.com,+971665174735,NULL,Filipino,"Software Engineer",IT,Sharjah,Contract,EMP1449,1,2025-01-03,22202.00,27,3
+EMP1140,"SUSAN PATTERSON",anneramirez@gmail.com,+971790507211,Male,Filipino,"Software Engineer",Finance,Dubai,Contract,EMP1049,1,2023-08-21,29653.00,14,3
+EMP1142,"JASON PARKER",spencereric@hotmail.com,+971568036002,Male,Jordanian,"HR Manager",IT,"Abu Dhabi",Part-Time,EMP1213,1,2025-06-20,42333.00,NULL,3
+EMP1143,"AARON MCGUIRE",david52@yahoo.com,+971395754559,Male,British,"Software Engineer","Human Resources",Sharjah,Part-Time,EMP1291,1,2026-05-02,25295.00,6,3
+EMP1145,"RYAN MILLER",kellybrian@quinn.com,+971267128396,Male,Indian,"HR Manager","Human Resources","Abu Dhabi",Part-Time,EMP1025,1,2025-04-07,10608.00,17,3
+EMP1146,"WALTER CURTIS",martinezkyle@hotmail.com,+971457067196,Female,Pakistani,IT,"Human Resources",Sharjah,Intern,EMP1391,1,2024-02-03,43184.00,13,5
+EMP1147,"DEAN RODRIGUEZ",andrewsjulie@rodriguez.com,+971878318493,Male,Egyptian,"Software Engineer",Operations,"Abu Dhabi",Contract,EMP1033,1,2025-12-02,23036.00,17,1
+EMP1148,"CONNIE MEJIA",ojackson@hotmail.com,+971776977258,NULL,Syrian,Accountant,Sales,Sharjah,Part-Time,EMP1227,1,2025-06-14,20930.00,6,3
+EMP1149,"KRISTINE ANDERSON",annramirez@williamson.com,+971109601572,Female,Filipino,"Software Engineer",Sales,Sharjah,Intern,EMP1184,1,2026-03-27,20182.00,0,3
+EMP1150,"ADAM HIGGINS",burtoncassidy@hotmail.com,+971294472059,NULL,Jordanian,"Senior accountant","Human Resources",Dubai,Part-Time,EMP1257,1,2024-05-25,25129.00,34,3
+EMP1151,"JEFFREY SHEPARD",smithjennifer@flores-ramos.com,+971804369659,Male,Egyptian,"Software Engineer",Marketing,"Abu Dhabi",Contract,EMP1286,1,2023-10-11,30556.00,25,3
+EMP1152,"JACQUELINE MARSHALL",mguzman@browning.org,+971125088963,Female,Syrian,"Senior accountant","Human Resources",Dubai,Intern,EMP1320,1,2026-05-16,40729.00,15,3
+EMP1153,"JENNIFER HOLMES",brendahall@gmail.com,+971287063502,Female,Indian,"Software Engineer",Finance,"Abu Dhabi",Intern,EMP1329,1,2025-10-23,18322.00,21,2
+EMP1154,"ERIC HOWARD",james69@hotmail.com,+971781783532,Female,Sudanese,"HR Manager",Sales,Sharjah,Intern,EMP1050,1,2023-11-21,15961.00,5,2
+EMP1155,"OMAR HANSON",johnsoncynthia@richards-smith.com,+971621619650,Male,Egyptian,"HR Manager",Sales,Dubai,Part-Time,EMP1120,1,2026-03-29,15798.00,20,4
+EMP1156,"MICHAEL MELENDEZ",jared46@yahoo.com,+971003777550,Female,Pakistani,Accountant,"Human Resources",Sharjah,Full-Time,EMP1435,1,2024-10-11,15235.00,35,3
+EMP1157,"KELSEY WOODS",calhounstanley@hunter.com,+971722089994,Female,Indian,"IT Support",Admin,Sharjah,Contract,EMP1294,1,2026-03-24,19066.00,NULL,5
+EMP1158,"TONYA KERR",melissaskinner@gmail.com,+971302215656,Male,British,"Senior accountant",Sales,Sharjah,Part-Time,EMP1328,1,2025-09-10,29022.00,10,3
+EMP1159,"LISA YOUNG",mario35@maynard.org,+971793418911,Female,Indian,"Marketing specialist",Operations,"Abu Dhabi",Contract,EMP1390,1,2023-12-04,9300.00,27,3
+EMP1160,"DAVID ROBINSON","david robinson@nomail.com",+971923442736,Female,Jordanian,"Data analyst",Admin,"Abu Dhabi",Part-Time,EMP1306,1,2026-04-19,15153.00,7,2
+EMP1161,"CHRISTOPHER SMITH",kylefisher@shaffer.com,+971810937669,Male,Pakistani,"Software Engineer",Marketing,"Abu Dhabi",Full-Time,EMP1189,1,2024-10-07,4773.00,32,5
+EMP1162,"MARK GUTIERREZ",gcardenas@hotmail.com,+971061042709,Female,Bangladeshi,"IT Support",Sales,"Abu Dhabi",Full-Time,EMP1019,1,2026-04-21,30595.00,31,2
+EMP1163,"AMY MOLINA",adamspaula@hotmail.com,+971816722950,Female,Bangladeshi,"HR Manager","Human Resources","Abu Dhabi",Full-Time,EMP1017,1,2024-12-07,29282.00,0,1
+EMP1164,"JAMES BECKER",colonlinda@williams.biz,+971430769633,Male,Bangladeshi,"Data analyst",Finance,"Abu Dhabi",Intern,EMP1107,1,2024-09-01,33524.00,15,5
+EMP1165,"MARY TAYLOR",jasminedowns@peters-acevedo.com,+971209994668,Male,Filipino,"Sales executive","Human Resources",Sharjah,Intern,EMP1435,1,2025-05-15,27785.00,14,3
+EMP1166,"MARY RICHARDS",teresa71@yahoo.com,+971741496701,Male,Lebanese,"Sales executive",Finance,Dubai,Contract,EMP1217,1,2023-06-26,24370.00,25,1
+EMP1167,"JENNIFER PALMER",zbrown@hotmail.com,+971303133170,Female,UAE,"Software Engineer",Finance,Dubai,Full-Time,EMP1318,1,2024-10-31,5138.00,9,3
+EMP1168,"SUSAN BUCHANAN",natalie37@blackburn-koch.com,+971656520963,Female,Bangladeshi,"Software Engineer",Marketing,Dubai,Intern,EMP1315,1,2023-07-16,8784.00,26,4
+EMP1169,"MARK SANTANA",wongjulian@robinson.com,+971796752419,Female,UAE,"IT Support",Finance,Sharjah,Part-Time,EMP1252,1,2025-05-05,38393.00,8,3
+EMP1170,"ALAN RIGGS",williamfowler@burns-craig.net,+971740087817,Female,Pakistani,"Marketing specialist",Admin,"Abu Dhabi",Intern,EMP1292,1,2026-01-11,37101.00,20,3
+EMP1171,"ROBERT ATKINS",andrewnash@yahoo.com,+971430403162,Female,Filipino,"Senior accountant",Admin,Dubai,Full-Time,EMP1377,1,2023-07-21,13149.00,21,4
+EMP1172,"SHANE FRIEDMAN",tasha68@hotmail.com,+971399499921,NULL,Egyptian,"IT Support",Admin,Sharjah,Contract,EMP1304,1,2024-12-13,7212.00,4,4
+EMP1173,"SUSAN SMITH",tiffany53@hotmail.com,+971400246322,NULL,Sudanese,"Data analyst",Admin,Sharjah,Intern,EMP1261,1,2026-04-12,25837.00,17,3
+EMP1174,"TAYLOR FIGUEROA",tammy62@crawford-riley.com,+971062187639,Female,Bangladeshi,"Data analyst",IT,Sharjah,Contract,EMP1067,1,2025-11-16,25088.00,23,3
+EMP1175,"JENNIFER WEBSTER",lhernandez@yahoo.com,+971512765997,NULL,Bangladeshi,"Data analyst",Finance,"Abu Dhabi",Contract,EMP1265,1,2023-10-03,39594.00,26,3
+EMP1176,"EDDIE WILLIAMS",pgibbs@hotmail.com,+971246378421,Female,Syrian,"Operations manager",Finance,Sharjah,Intern,EMP1241,1,2024-06-17,28928.00,5,3
+EMP1177,"MARTIN MURPHY",powelltyler@evans-ramos.com,+971714793408,Male,Egyptian,"Marketing specialist","Human Resources",Dubai,Intern,EMP1040,1,2024-03-25,20351.00,7,3
+EMP1178,"MICHELLE JENNINGS",donaldpayne@young.biz,+971141230091,Female,Bangladeshi,"IT Support",Finance,Sharjah,Full-Time,EMP1087,1,2024-11-14,40336.00,35,3
+EMP1179,"CHERYL HOWARD",amyjackson@gmail.com,+971546265368,Female,Egyptian,"Software Engineer","Human Resources",Sharjah,Full-Time,EMP1266,1,2026-01-05,19395.00,0,4
+EMP1180,"AMANDA BLEVINS",hallcurtis@butler.com,+971533543530,Female,Pakistani,"Software Engineer",IT,"Abu Dhabi",Part-Time,EMP1347,1,2025-07-04,30354.00,22,3
+EMP1181,"APRIL BERRY",fward@yahoo.com,+971524885593,Female,Pakistani,IT,IT,Dubai,Contract,EMP1081,1,2024-09-15,29482.00,6,1
+EMP1182,"JASON LUCAS",brian06@hotmail.com,+971900485622,NULL,Syrian,"Senior accountant",Finance,"Abu Dhabi",Part-Time,EMP1044,1,2025-12-24,28242.00,3,5
+EMP1183,"BETHANY BENNETT",bakerdenise@yahoo.com,+971138205410,Male,Egyptian,"Software Engineer",IT,Sharjah,Full-Time,EMP1399,1,2024-03-12,9737.00,32,2
+EMP1184,"MICHAEL SPARKS",joseph26@gmail.com,+971034015663,Male,Bangladeshi,"Software Engineer",Admin,Dubai,Part-Time,EMP1272,1,2024-08-07,7607.00,24,3
+EMP1185,"CARLOS OWENS",josephsalas@hotmail.com,+971891028973,NULL,Sudanese,Accountant,Admin,Dubai,Full-Time,EMP1214,1,2025-07-07,34183.00,25,2
+EMP1186,"JOHN WHITAKER","john whitaker@nomail.com",+971106980612,Female,Lebanese,IT,Operations,"Abu Dhabi",Intern,EMP1337,1,2024-11-06,31965.00,20,3
+EMP1187,"MATTHEW GOMEZ",johnsondennis@gmail.com,+971909088901,NULL,Jordanian,IT,Finance,"Abu Dhabi",Part-Time,EMP1361,1,2025-08-02,5237.00,14,3
+EMP1188,"KATHERINE SCHNEIDER",joseph46@valenzuela.org,+971368408666,Female,Sudanese,"IT Support",Operations,"Abu Dhabi",Part-Time,EMP1398,1,2026-01-28,4507.00,21,5
+EMP1189,"CARLA HUNTER",jacobrodriguez@salazar.biz,+971260387793,NULL,Filipino,"Operations manager",Sales,"Abu Dhabi",Intern,EMP1204,1,2024-04-13,36914.00,5,3
+EMP1190,"SANDRA BOYD",dstevens@ewing.biz,+971600844683,Female,Indian,"Marketing specialist",IT,Dubai,Part-Time,EMP1197,1,2025-04-09,27507.00,28,1
+EMP1191,"MORGAN PERRY",walkertyler@hotmail.com,+971774850277,Female,British,"Marketing specialist",Operations,"Abu Dhabi",Part-Time,EMP1340,1,2026-03-04,39329.00,11,5
+EMP1192,"JULIA WALLACE",kathryn72@williams.com,+971297908465,Male,Jordanian,"HR Manager",Admin,"Abu Dhabi",Intern,EMP1146,1,2024-03-31,35729.00,35,5
+EMP1193,"WILLIAM JOHNSON",ryan93@yahoo.com,+971028763257,Male,UAE,"Data analyst",Admin,Dubai,Contract,EMP1248,1,2023-06-06,8846.00,30,3
+EMP1194,"MADISON LAWSON",singletontimothy@thomas.biz,+971096559502,NULL,Egyptian,"Data analyst",Sales,Dubai,Contract,EMP1335,1,2025-03-25,39302.00,35,3
+EMP1195,"RICHARD MURPHY",christineholmes@church.com,+971098618966,Male,British,"Data analyst",Admin,Sharjah,Contract,EMP1256,1,2025-08-01,9810.00,11,2
+EMP1196,"STEFANIE ANDERSON",courtney97@harrington.com,+971776097230,Female,Syrian,"HR Manager",Sales,"Abu Dhabi",Intern,EMP1069,1,2024-02-21,29354.00,0,1
+EMP1197,"EMILY TAYLOR",nicolephillips@walker.com,+971086090857,NULL,Egyptian,"HR Manager",Finance,"Abu Dhabi",Contract,EMP1312,1,2026-04-05,18602.00,33,1
+EMP1198,"ANDREW BROWN",linda49@arellano-logan.com,+971977082095,NULL,Syrian,"Data analyst","Human Resources","Abu Dhabi",Part-Time,EMP1257,1,2025-11-04,12737.00,7,2
+EMP1199,"LESLIE RAMIREZ",rmorales@frederick.info,+971286136882,NULL,Filipino,"Operations manager",Finance,Sharjah,Part-Time,EMP1426,1,2023-07-16,4034.00,19,3
+EMP1200,"KELSEY WILSON",clarkkatrina@gmail.com,+971696740494,Female,Filipino,IT,Operations,"Abu Dhabi",Intern,EMP1317,1,2024-07-06,27989.00,7,3
+EMP1201,"JEFFERY SMALL",christopher36@conley.biz,+971880220601,Male,Egyptian,Accountant,Finance,Sharjah,Contract,EMP1043,1,2024-08-19,20860.00,13,3
+EMP1202,"JEFFREY GARCIA",corywalter@yahoo.com,+971987247509,Female,Sudanese,"IT Support",Marketing,"Abu Dhabi",Intern,EMP1252,1,2025-05-29,9096.00,5,3
+EMP1203,"BRIAN BERG",jamie06@yahoo.com,+971137461448,Male,UAE,"Data analyst",Finance,Dubai,Part-Time,EMP1322,1,2026-01-13,42762.00,18,1
+EMP1204,"KATRINA GONZALES",watsonjames@martinez.info,+971203939017,Male,British,"Software Engineer","Human Resources","Abu Dhabi",Intern,EMP1382,1,2025-11-20,37867.00,29,1
+EMP1205,"STEVEN LEE",laurie14@hotmail.com,+971823680426,Female,UAE,IT,Finance,"Abu Dhabi",Contract,EMP1363,1,2023-06-13,22290.00,11,3
+EMP1206,"PATRICK FREDERICK",anash@hancock.com,+971466573343,Female,Lebanese,IT,IT,Dubai,Full-Time,EMP1355,1,2023-05-29,34269.00,13,1
+EMP1207,"JUSTIN FERRELL",floresolivia@gmail.com,+971895698384,NULL,Sudanese,"IT Support",Finance,"Abu Dhabi",Full-Time,EMP1133,1,2026-03-07,42238.00,11,2
+EMP1208,"CHAD SANCHEZ",robertsbrianna@gmail.com,+971176087239,Male,Jordanian,IT,IT,Sharjah,Intern,EMP1287,1,2023-06-09,9273.00,32,4
+EMP1209,"ERIKA DAWSON",ashley97@yahoo.com,+971417286399,NULL,British,"Data analyst",IT,"Abu Dhabi",Full-Time,EMP1344,1,2023-09-29,25067.00,14,2
+EMP1210,"MEGAN RODRIGUEZ",tiffanymorton@williams.com,+971169578454,Male,Pakistani,IT,IT,Sharjah,Part-Time,EMP1244,1,2023-07-29,18309.00,13,3
+EMP1211,"MEGAN SMITH",xlowe@gmail.com,+971863250129,Male,UAE,"HR Manager",IT,Sharjah,Intern,EMP1206,1,2023-10-08,22634.00,23,3
+EMP1212,"KATHERINE POOLE",richardsonkristie@morrow.net,+971587469483,NULL,Sudanese,"IT Support",Sales,Dubai,Contract,EMP1161,1,2024-12-22,31929.00,16,1
+EMP1213,"MICHELLE LEWIS",aburch@nguyen.com,+971935084629,NULL,Sudanese,"Data analyst",Admin,Dubai,Intern,EMP1075,1,2025-11-29,13674.00,15,2
+EMP1214,"SHELBY ZIMMERMAN",jamesjohnson@fitzgerald.com,+971850493434,Female,Sudanese,"Operations manager",IT,Dubai,Full-Time,EMP1108,1,2023-06-27,39409.00,8,1
+EMP1215,"SHERRI HOFFMAN",nicolemorales@long.com,+971448292607,Female,UAE,IT,Finance,Dubai,Full-Time,EMP1075,1,2024-12-17,40616.00,23,4
+EMP1216,"EMILY GRAHAM",rachelwood@lucas.com,+971582457565,Male,Sudanese,"IT Support",Marketing,Dubai,Part-Time,EMP1127,1,2026-01-28,24471.00,25,5
+EMP1217,"KELLY ELLIS",lsharp@martin-thompson.biz,+971114127418,NULL,Indian,"HR Manager",Admin,Dubai,Intern,EMP1230,1,2024-06-18,35047.00,15,3
+EMP1218,"DAWN RIVERA",smithanthony@hotmail.com,+971204229758,NULL,Indian,"Operations manager",IT,Sharjah,Contract,EMP1083,1,2026-05-27,5294.00,26,3
+EMP1219,"MICHELLE HARRINGTON",mccarthykimberly@hotmail.com,+971291343012,Male,Bangladeshi,"Senior accountant",IT,Sharjah,Contract,EMP1066,1,2024-05-10,43570.00,6,5
+EMP1220,"CRAIG BOWERS",perezkevin@gmail.com,+971408173331,Male,Bangladeshi,"Software Engineer",Operations,Sharjah,Part-Time,EMP1178,1,2024-02-10,16230.00,33,3
+EMP1221,"KIM MATHIS",daniel37@cook-murphy.com,+971230983645,Male,British,"Software Engineer","Human Resources",Dubai,Part-Time,EMP1375,1,2026-05-12,16931.00,31,4
+EMP1222,"KRISTEN FARMER",smithbrittany@yahoo.com,+971501931895,Female,British,"Senior accountant",Admin,Sharjah,Contract,EMP1265,1,2024-03-16,34934.00,5,3
+EMP1223,"GREGORY HICKS",charles00@wright-rogers.com,+971269217020,Female,Filipino,"Software Engineer",Marketing,Dubai,Full-Time,EMP1084,1,2024-06-27,28550.00,28,3
+EMP1224,"JAMES MORALES",morganlindsey@gmail.com,+971061441829,Female,Indian,IT,IT,Dubai,Intern,EMP1404,1,2025-09-22,5953.00,32,3
+EMP1225,"JAMES MARTIN",jordanedward@gmail.com,+971221347313,Female,Jordanian,"IT Support",Marketing,Sharjah,Part-Time,EMP1112,1,2025-05-10,33812.00,32,3
+EMP1226,"MIGUEL CARDENAS",ajones@mitchell-morton.com,+971156921406,Male,UAE,IT,"Human Resources","Abu Dhabi",Intern,EMP1204,1,2025-06-25,30856.00,30,3
+EMP1227,"DEBORAH BURTON",kelseyallen@jackson-duke.com,+971931374177,NULL,Syrian,"Operations manager",Operations,Sharjah,Contract,EMP1187,1,2024-05-11,25252.00,26,5
+EMP1228,"PHILLIP SANDERS",tonyadavis@yahoo.com,+971307690030,NULL,Sudanese,"Senior accountant",Admin,Dubai,Intern,EMP1209,1,2024-12-15,29833.00,32,1
+EMP1229,"REGINALD BALL",meghan81@harrison-ortiz.info,+971202900010,Female,Sudanese,"Operations manager",IT,Dubai,Contract,EMP1224,1,2024-03-11,41399.00,11,5
+EMP1230,"JONATHAN BROWN","jonathan brown@nomail.com",+971690756388,Female,Indian,"HR Manager",Sales,"Abu Dhabi",Part-Time,EMP1223,1,2024-07-15,10203.00,0,2
+EMP1231,"TAMARA WILLIAMS",avasquez@garcia.com,+971817938022,Male,Syrian,"Marketing specialist",Admin,Dubai,Intern,EMP1204,1,2025-10-31,15892.00,1,3
+EMP1232,"BENJAMIN BARNETT",jwerner@jackson.com,+971077331587,NULL,Egyptian,"Data analyst",IT,Sharjah,Full-Time,EMP1445,1,2026-05-08,20367.00,26,1
+EMP1233,"CHARLES OLSEN",valerie43@gmail.com,+971649278435,Male,Indian,IT,Finance,Sharjah,Part-Time,EMP1029,1,2026-04-01,30413.00,18,3
+EMP1234,"ELLEN NELSON",kevin48@hotmail.com,+971165428374,NULL,Syrian,IT,IT,"Abu Dhabi",Intern,EMP1137,1,2024-03-20,5519.00,5,3
+EMP1235,"DAVID ALLEN",michaelbrooks@adkins.com,+971254368035,Male,Indian,"Software Engineer",Sales,"Abu Dhabi",Contract,EMP1149,1,2023-12-12,17143.00,21,5
+EMP1236,"MATTHEW ROACH",isabellataylor@hotmail.com,+971930674826,Female,Indian,"Software Engineer",Marketing,Dubai,Full-Time,EMP1030,1,2025-02-17,37916.00,27,3
+EMP1237,"KIMBERLY BROWN",joshuacraig@jones-lopez.com,+971138047604,Female,Bangladeshi,"HR Manager",Operations,"Abu Dhabi",Part-Time,EMP1175,1,2023-09-18,29573.00,26,3
+EMP1238,"KRISTEN SCHNEIDER",dnguyen@hotmail.com,+971153302548,NULL,Bangladeshi,"Data analyst",Admin,"Abu Dhabi",Full-Time,EMP1154,1,2026-01-23,37869.00,34,1
+EMP1239,"JESSICA DRAKE","jessica drake@nomail.com",+971551444082,Male,UAE,IT,Marketing,Dubai,Full-Time,EMP1031,1,2024-01-15,17714.00,24,3
+EMP1240,"DEBRA COLLINS",harringtonmorgan@powell-gross.info,+971071243575,Male,Pakistani,IT,Marketing,Sharjah,Intern,EMP1004,1,2023-08-19,23842.00,3,4
+EMP1241,"CRYSTAL BRADLEY",elizabeth54@carter.com,+971940409352,Female,Filipino,"Data analyst",Admin,Dubai,Part-Time,EMP1418,1,2026-04-24,16109.00,26,3
+EMP1242,"CATHERINE JAMES",brandyhickman@yahoo.com,+971049942387,Male,Filipino,"Data analyst",Finance,Sharjah,Contract,EMP1169,1,2026-05-18,39792.00,27,3
+EMP1243,"RYAN HERNANDEZ",donald48@gmail.com,+971760043383,Female,Sudanese,"Software Engineer",Admin,Sharjah,Intern,EMP1117,1,2023-08-04,36712.00,30,3
+EMP1244,"PATRICIA BATES",johnsonanthony@yahoo.com,+971500801471,NULL,Filipino,"Data analyst",IT,Dubai,Intern,EMP1416,1,2023-11-02,26445.00,9,4
+EMP1245,"AMBER BAUTISTA",johnsonmichael@yahoo.com,+971820925170,NULL,British,"Sales executive",Marketing,Sharjah,Contract,EMP1084,1,2025-05-06,42512.00,27,3
+EMP1247,"CLINTON WOODS",lukewallace@hotmail.com,+971412078334,NULL,Egyptian,"Operations manager",IT,Sharjah,Part-Time,EMP1085,1,2025-10-10,21048.00,7,1
+EMP1248,"THOMAS PETERS",flemingcynthia@anderson-daniel.com,+971246083155,Female,Lebanese,"Marketing specialist",IT,Dubai,Part-Time,EMP1399,1,2025-07-26,16952.00,29,3
+EMP1249,"TERRENCE GARCIA","terrence garcia@nomail.com",+971016267425,Male,Bangladeshi,"IT Support",Marketing,"Abu Dhabi",Contract,EMP1265,1,2024-02-13,11774.00,16,4
+EMP1250,"KRISTEN GRAHAM",qdyer@hood-torres.com,+971011985093,Female,Indian,"HR Manager",Marketing,Dubai,Full-Time,EMP1209,1,2023-08-30,24960.00,28,1
+EMP1251,"WILLIAM VASQUEZ",kimblackburn@gross.com,+971577685949,NULL,Filipino,"HR Manager",Marketing,Dubai,Contract,EMP1083,1,2025-08-01,24124.00,10,4
+EMP1252,"JENNA REED",fboyle@mcneil.org,+971250973589,Male,UAE,"HR Manager",IT,"Abu Dhabi",Contract,EMP1417,1,2026-05-08,17333.00,34,1
+EMP1253,"TIMOTHY WALLACE",weaverjessica@walsh-woodard.com,+971846553682,NULL,British,"HR Manager","Human Resources",Dubai,Intern,EMP1148,1,2023-11-25,40163.00,6,3
+EMP1254,"JOHN BUCKLEY",oadkins@carpenter.com,+971507815594,Male,Indian,"HR Manager",Finance,Dubai,Intern,EMP1360,1,2025-09-22,23428.00,34,3
+EMP1255,"NICOLE BREWER",robinsonmatthew@yahoo.com,+971393924064,Female,Lebanese,"IT Support",Operations,Sharjah,Intern,EMP1129,1,2024-10-20,8901.00,17,1
+EMP1256,"FAITH FERNANDEZ",michael63@hotmail.com,+971905312986,Male,British,IT,Sales,Dubai,Full-Time,EMP1178,1,2023-11-24,15615.00,5,3
+EMP1257,"THERESA LEWIS",waltersjessica@yahoo.com,+971980800141,NULL,Sudanese,IT,"Human Resources",Dubai,Full-Time,EMP1049,1,2024-11-16,27002.00,7,1
+EMP1258,"ROBERT OWENS",jeffreycabrera@hotmail.com,+971325563104,Female,Jordanian,IT,Sales,Dubai,Intern,EMP1045,1,2024-06-25,23382.00,11,3
+EMP1259,"ALFRED PHILLIPS",deborahmoore@yahoo.com,+971502551535,Male,Pakistani,"HR Manager",Sales,"Abu Dhabi",Part-Time,EMP1171,1,2025-03-30,10377.00,2,1
+EMP1260,"GARRETT MCCOY",michelle79@turner-ortega.info,+971835244096,Female,Egyptian,"Marketing specialist",IT,"Abu Dhabi",Part-Time,EMP1130,1,2024-01-14,44792.00,15,3
+EMP1261,"WANDA EVANS",fostermegan@gmail.com,+971355243296,Male,Pakistani,"HR Manager",Sales,Sharjah,Part-Time,EMP1107,1,2024-03-30,41996.00,15,3
+EMP1262,"COLLEEN WIGGINS",markharris@stokes.biz,+971051814802,Female,Egyptian,"Software Engineer",IT,Dubai,Full-Time,EMP1078,1,2025-08-16,3203.00,33,4
+EMP1263,"JENNIFER LANE",claydarrell@campbell.com,+971970169647,Female,Egyptian,"HR Manager",IT,Sharjah,Contract,EMP1132,1,2024-09-23,2934.00,14,5
+EMP1264,"CYNTHIA HERNANDEZ",brownryan@torres-burke.net,+971215696705,Male,UAE,"Software Engineer",Finance,Sharjah,Intern,EMP1378,1,2025-03-15,17907.00,2,3
+EMP1265,"LISA HATFIELD",matadawn@yahoo.com,+971358921134,NULL,Bangladeshi,IT,Sales,Sharjah,Intern,EMP1202,1,2023-10-17,38289.00,15,1
+EMP1266,"WILLIAM FULLER",millertimothy@yahoo.com,+971252007319,Male,Lebanese,IT,Finance,Dubai,Full-Time,EMP1376,1,2026-05-05,32521.00,1,4
+EMP1267,"LAURA THOMPSON",edward50@gmail.com,+971794430432,NULL,British,"Software Engineer",Sales,"Abu Dhabi",Intern,EMP1338,1,2024-10-22,24303.00,6,1
+EMP1268,"SUSAN HOFFMAN",lawrence35@hotmail.com,+971943347870,Female,British,IT,"Human Resources","Abu Dhabi",Part-Time,EMP1157,1,2024-08-11,19652.00,16,5
+EMP1269,"DUSTIN JOHNSON",lopezmonica@hotmail.com,+971506379083,NULL,Pakistani,"Software Engineer",Marketing,Sharjah,Intern,EMP1217,1,2025-09-21,5735.00,5,3
+EMP1270,"MARIA RODRIGUEZ",randy97@hotmail.com,+971379474601,Male,Filipino,"Sales executive",Admin,Dubai,Part-Time,EMP1355,1,2025-09-02,39102.00,4,3
+EMP1271,"NICOLE CHANDLER",christopher30@estrada-evans.biz,+971449381402,Male,Jordanian,"HR Manager",Sales,Dubai,Contract,EMP1046,1,2025-06-19,17285.00,NULL,2
+EMP1272,"LAURA WALLACE",johnsonjennifer@hotmail.com,+971230708520,Female,Lebanese,"HR Manager",Finance,"Abu Dhabi",Contract,EMP1110,1,2024-10-24,35530.00,29,2
+EMP1273,"SAVANNAH DECKER",vanessa62@martinez.net,+971227638585,Female,UAE,"Sales executive",Sales,"Abu Dhabi",Contract,EMP1209,1,2023-08-08,23207.00,20,4
+EMP1274,"MICHELLE SHARP",sarah02@yahoo.com,+971981950530,NULL,UAE,"Software Engineer",IT,"Abu Dhabi",Contract,EMP1282,1,2024-08-18,21124.00,22,3
+EMP1275,"GEORGE JONES",sarah97@lopez-brewer.info,+971429046089,Female,Sudanese,"Operations manager",IT,Dubai,Intern,EMP1337,1,2024-09-20,15158.00,35,3
+EMP1276,"MONIQUE CLARK",bradleyramsey@yahoo.com,+971979117225,Male,Filipino,"Data analyst",Operations,Dubai,Intern,EMP1260,1,2025-03-21,20971.00,21,4
+EMP1277,"CINDY RODRIGUEZ",devinthompson@reed.biz,+971336328225,Male,Filipino,"IT Support",Sales,"Abu Dhabi",Intern,EMP1027,1,2024-04-17,11024.00,5,3
+EMP1278,"CASEY BECKER",simmonskaren@marks.com,+971165886680,Female,British,"Software Engineer","Human Resources",Dubai,Part-Time,EMP1413,1,2025-08-21,30415.00,33,3
+EMP1279,"BENJAMIN PACHECO",cooperjesse@hotmail.com,+971544533069,NULL,Jordanian,"Data analyst",Finance,"Abu Dhabi",Full-Time,EMP1005,1,2025-09-05,7092.00,21,3
+EMP1280,"CATHY SHERMAN",zjones@perez.org,+971414958925,Male,Indian,"Software Engineer",IT,Sharjah,Intern,EMP1298,1,2023-06-11,21046.00,34,5
+EMP1281,"ETHAN MOORE",brianpeterson@hotmail.com,+971828879200,Male,Lebanese,"Senior accountant",Finance,Dubai,Full-Time,EMP1224,1,2026-01-13,22010.00,7,4
+EMP1282,"RANDY JOHNSON",jamessmith@franco.info,+971919281008,NULL,Filipino,IT,Admin,Sharjah,Intern,EMP1224,1,2026-01-31,12526.00,18,5
+EMP1283,"STEPHANIE KENT",craigwong@gmail.com,+971793533558,Male,Lebanese,"Software Engineer",Operations,"Abu Dhabi",Part-Time,EMP1250,1,2025-06-12,11671.00,24,3
+EMP1284,"SHANNON JORDAN",tara73@hotmail.com,+971947617631,Female,UAE,"HR Manager",Finance,Sharjah,Part-Time,EMP1402,1,2025-10-22,28762.00,15,5
+EMP1285,"ERIC GREEN",xibarra@hotmail.com,+971716520760,Female,British,IT,"Human Resources",Sharjah,Contract,EMP1263,1,2026-01-18,24996.00,16,3
+EMP1286,"STEVEN WONG",cturner@hotmail.com,+971825385508,Female,Jordanian,"Software Engineer",Finance,Sharjah,Full-Time,EMP1414,1,2025-12-29,17239.00,15,3
+EMP1287,"ELIZABETH SMITH",jessica70@hotmail.com,+971085982176,Female,Jordanian,"IT Support",IT,"Abu Dhabi",Intern,EMP1355,1,2025-12-15,34125.00,23,4
+EMP1288,"DAVID HARMON","david harmon@nomail.com",+971326491372,NULL,Lebanese,IT,"Human Resources","Abu Dhabi",Contract,EMP1045,1,2023-10-24,35032.00,26,3
+EMP1289,"MARIA ESPINOZA",waltersbeth@gmail.com,+971805131029,Female,Syrian,IT,Finance,Dubai,Full-Time,EMP1026,1,2024-03-30,22923.00,9,1
+EMP1290,"STEFANIE THOMPSON",swansonkatherine@yahoo.com,+971581160960,Female,Pakistani,IT,Finance,Sharjah,Full-Time,EMP1314,1,2023-12-05,14252.00,28,4
+EMP1291,"HANNAH MUELLER",heatherrose@gmail.com,+971707959618,Female,Lebanese,Accountant,Admin,"Abu Dhabi",Full-Time,EMP1268,1,2024-03-05,11672.00,2,2
+EMP1292,"MR. JONATHAN GRIFFIN",angelafrost@yahoo.com,+971130178875,Male,Sudanese,"IT Support",Finance,"Abu Dhabi",Contract,EMP1022,1,2024-09-13,33346.00,18,1
+EMP1293,"MONICA JONES",greeves@hotmail.com,+971747475261,Female,Lebanese,IT,"Human Resources",Sharjah,Part-Time,EMP1207,1,2025-07-08,9016.00,1,3
+EMP1294,"RICHARD STUART",olevy@barrera.com,+971068890118,Male,British,"Senior accountant","Human Resources",Dubai,Part-Time,EMP1267,1,2024-01-01,12381.00,NULL,3
+EMP1295,"KENNETH VALENTINE",tammygarza@cox.info,+971862705949,Female,Indian,Accountant,IT,"Abu Dhabi",Part-Time,EMP1334,1,2024-12-31,6147.00,29,5
+EMP1296,"KAREN RUSSELL",kim52@baker.com,+971636725961,Male,UAE,"Marketing specialist",Admin,Sharjah,Full-Time,EMP1231,1,2024-06-25,30398.00,31,3
+EMP1297,"BRANDON HAMILTON",vgreen@yahoo.com,+971447296235,Female,Syrian,"HR Manager",Operations,Sharjah,Part-Time,EMP1162,1,2025-07-12,23307.00,9,3
+EMP1298,"KAREN HARRIS",vlewis@larson-henry.biz,+971548128427,Male,Egyptian,Accountant,Finance,Sharjah,Full-Time,EMP1333,1,2023-09-25,23196.00,29,5
+EMP1299,"DIANE HOWARD",johnsonkara@moreno-morgan.com,+971497944461,NULL,Egyptian,"Software Engineer",Finance,"Abu Dhabi",Intern,EMP1382,1,2023-12-01,16096.00,18,1
+EMP1300,"MELISSA GORDON",ruthboyd@gmail.com,+971464306181,NULL,Jordanian,"IT Support",IT,Sharjah,Full-Time,EMP1270,1,2024-07-30,35589.00,13,5
+EMP1301,"SAMANTHA WILLIAMS",raymondmiller@cruz-maldonado.net,+971340009376,Female,Pakistani,"Software Engineer","Human Resources","Abu Dhabi",Intern,EMP1021,1,2024-11-06,39476.00,22,3
+EMP1302,"CHARLES MOORE",bushanthony@yahoo.com,+971170446984,NULL,Syrian,"Marketing specialist",Operations,Dubai,Intern,EMP1026,1,2025-11-02,9347.00,32,4
+EMP1303,"CARRIE VELEZ",grahamjuan@gmail.com,+971798640131,Female,Filipino,"Software Engineer",Marketing,Dubai,Intern,EMP1391,1,2025-06-19,35638.00,17,3
+EMP1304,"JASON PROCTOR",thomasashley@yahoo.com,+971540239605,Male,Indian,"Sales executive",IT,"Abu Dhabi",Part-Time,EMP1331,1,2024-11-12,13176.00,14,5
+EMP1305,"BRITTNEY MARTINEZ",lgraves@gmail.com,+971221015602,Female,British,"HR Manager",Operations,"Abu Dhabi",Contract,EMP1303,1,2025-04-22,38466.00,11,2
+EMP1306,"SHELLY SAVAGE",meyerangela@anderson.com,+971151153901,Male,Pakistani,Accountant,IT,"Abu Dhabi",Full-Time,EMP1072,1,2025-05-13,38571.00,14,3
+EMP1307,"JASMINE BLACKBURN",orios@hotmail.com,+971216424725,Male,Syrian,"HR Manager",Finance,Dubai,Contract,EMP1045,1,2024-03-27,29214.00,33,3
+EMP1308,"JAMES DANIELS",michelledoyle@phillips.org,+971872940743,NULL,UAE,"IT Support",IT,Dubai,Intern,EMP1168,1,2025-05-05,10678.00,30,4
+EMP1309,"JESSICA MELTON",paige45@hotmail.com,+971384349543,Female,Indian,IT,Marketing,Sharjah,Part-Time,EMP1301,1,2024-04-19,14094.00,35,3
+EMP1310,"MONICA SAUNDERS",barnesmelissa@hotmail.com,+971883484296,Female,Sudanese,"Software Engineer","Human Resources",Sharjah,Part-Time,EMP1204,1,2024-06-19,4817.00,24,3
+EMP1311,"STEPHANIE GILBERT",michaelbradley@yahoo.com,+971432611082,Male,Egyptian,"Operations manager",Finance,Sharjah,Part-Time,EMP1171,1,2025-02-05,25829.00,27,3
+EMP1312,"JERRY CARTER",younglaurie@hotmail.com,+971719021042,Female,Jordanian,"IT Support",Sales,Dubai,Part-Time,EMP1142,1,2024-06-17,30827.00,26,3
+EMP1313,"DAVID JONES",perry23@hotmail.com,+971551249833,Male,UAE,"IT Support",IT,"Abu Dhabi",Intern,EMP1207,1,2025-02-24,17916.00,24,4
+EMP1314,"SUZANNE BAUTISTA",jacobmartin@gmail.com,+971370569741,Female,Sudanese,"Software Engineer",Finance,"Abu Dhabi",Part-Time,EMP1152,1,2023-06-14,39498.00,8,2
+EMP1315,"DR. CHRISTOPHER ORTIZ",jimenezrobert@jackson.com,+971801599654,Male,Pakistani,"Software Engineer",IT,Sharjah,Contract,EMP1007,1,2024-04-01,18428.00,21,2
+EMP1316,"DEBORAH DOUGLAS",john28@hotmail.com,+971113679754,Male,Egyptian,"Senior accountant",Admin,Dubai,Intern,EMP1014,1,2025-06-16,18819.00,31,3
+EMP1317,"ANNE SIMS",sweber@romero.com,+971493276595,Male,Filipino,IT,IT,Sharjah,Part-Time,EMP1102,1,2025-04-20,11112.00,8,3
+EMP1318,"MARGARET ROBERTS",troygeorge@hotmail.com,+971247327694,NULL,Bangladeshi,IT,Operations,"Abu Dhabi",Part-Time,EMP1430,1,2025-01-13,28005.00,33,3
+EMP1319,"STANLEY SCHAEFER",michaelhouston@yahoo.com,+971016455230,Female,UAE,"Data analyst",IT,Dubai,Full-Time,EMP1343,1,2024-04-16,19122.00,27,3
+EMP1320,"LOGAN RIVERA",hernandezbryan@gmail.com,+971377161772,Male,British,"HR Manager",Sales,"Abu Dhabi",Contract,EMP1189,1,2025-12-18,37912.00,22,3
+EMP1321,"LINDSEY FLYNN",matthew00@yahoo.com,+971970317085,Female,Filipino,"Marketing specialist",IT,Sharjah,Intern,EMP1293,1,2025-02-09,30225.00,25,3
+EMP1322,"AUSTIN MORRIS","austin morris@nomail.com",+971766300114,Female,Indian,"Data analyst",IT,"Abu Dhabi",Contract,EMP1318,1,2024-07-09,29612.00,11,3
+EMP1323,"STEVEN HAYES",thomasjohnson@yahoo.com,+971803209489,Male,Indian,"Software Engineer",Sales,Sharjah,Intern,EMP1357,1,2024-01-02,25045.00,2,3
+EMP1324,"KIMBERLY HERNANDEZ",morgansue@davis-sparks.com,+971203720230,Male,British,"HR Manager",Sales,Sharjah,Full-Time,EMP1293,1,2025-10-23,22797.00,17,3
+EMP1325,"DAVID TURNER",zachary94@hotmail.com,+971808780824,NULL,Syrian,IT,"Human Resources","Abu Dhabi",Contract,EMP1330,1,2025-04-02,37954.00,5,1
+EMP1326,"FERNANDO HANSON",jacquelinemelendez@yahoo.com,+971132188263,Male,Pakistani,IT,Finance,"Abu Dhabi",Intern,EMP1080,1,2025-03-02,39378.00,23,3
+EMP1327,"AUSTIN ARCHER",richard46@davis-vincent.org,+971296609457,Male,Pakistani,"IT Support",IT,"Abu Dhabi",Full-Time,EMP1178,1,2025-01-17,44996.00,13,1
+EMP1328,"LISA CASE",jacobsjeffrey@yahoo.com,+971024948568,NULL,British,"HR Manager",IT,Sharjah,Intern,EMP1422,1,2025-11-21,11281.00,32,3
+EMP1329,"KATHLEEN NORTON",gregory80@gmail.com,+971925551635,Male,Indian,"Sales executive",IT,Dubai,Part-Time,EMP1297,1,2026-05-11,36135.00,7,3
+EMP1330,"DONALD DAUGHERTY",kennethwalker@hotmail.com,+971678716722,Female,Syrian,"Data analyst",IT,Sharjah,Full-Time,EMP1201,1,2026-01-26,32504.00,2,3
+EMP1331,"CESAR VINCENT",cantrellandrew@gmail.com,+971959674925,Female,Lebanese,Accountant,"Human Resources",Sharjah,Contract,EMP1378,1,2026-02-22,6938.00,17,3
+EMP1332,"JARED SEXTON",dennis31@vasquez.biz,+971057852954,Male,UAE,"IT Support",Finance,Sharjah,Full-Time,EMP1281,1,2023-06-29,11836.00,9,3
+EMP1333,"STEPHANIE WILLIAMS",harmonthomas@yahoo.com,+971700843694,NULL,UAE,"Data analyst",Admin,Sharjah,Part-Time,EMP1155,1,2025-04-16,16338.00,23,3
+EMP1334,"TERESA DOMINGUEZ",rogerlloyd@rojas.com,+971669631007,Male,Bangladeshi,"Sales executive",Operations,"Abu Dhabi",Full-Time,EMP1160,1,2026-01-10,39915.00,17,1
+EMP1335,"AMY WOLFE",amysutton@alvarez-fox.com,+971639406285,Female,UAE,"Software Engineer",Admin,Sharjah,Contract,EMP1401,1,2024-08-28,8762.00,20,1
+EMP1336,"HEATHER LAM",ryanbrianna@yahoo.com,+971097521607,Female,Jordanian,IT,Admin,"Abu Dhabi",Full-Time,EMP1322,1,2025-01-04,17112.00,21,3
+EMP1337,"DAVID CORTEZ",xgonzalez@nolan.com,+971343462162,Male,UAE,"Data analyst","Human Resources",Sharjah,Intern,EMP1178,1,2025-08-12,31026.00,17,5
+EMP1338,"BENJAMIN PENNINGTON",amberreynolds@hotmail.com,+971999735482,Male,UAE,IT,Marketing,"Abu Dhabi",Contract,EMP1259,1,2025-01-05,13567.00,13,2
+EMP1339,"DR. KATHRYN CARTER PHD",tsmith@moore.biz,+971786304378,Female,Filipino,Accountant,Operations,Dubai,Intern,EMP1216,1,2024-12-17,44515.00,22,3
+EMP1340,"TINA HUGHES",holly65@yahoo.com,+971906932612,Male,Bangladeshi,"Data analyst",Sales,Dubai,Full-Time,EMP1261,1,2026-01-03,12642.00,29,3
+EMP1341,"SARAH DOMINGUEZ",jgarcia@serrano-gallagher.com,+971943839555,Female,Egyptian,"Data analyst",Admin,"Abu Dhabi",Part-Time,EMP1335,1,2024-12-23,11630.00,12,5
+EMP1342,"MARIA PEREZ",zsims@fox-smith.com,+971657969936,Male,Pakistani,"Sales executive",IT,Sharjah,Part-Time,EMP1038,1,2023-08-10,22944.00,15,5
+EMP1343,"ASHLEY BRIGGS",mlee@gmail.com,+971416617883,Female,Pakistani,"Data analyst",Admin,Sharjah,Contract,EMP1215,1,2026-02-10,24496.00,21,5
+EMP1344,"WILLIAM BECKER",glenda41@brock.org,+971269875870,Male,Indian,"Senior accountant",Admin,Sharjah,Full-Time,EMP1079,1,2024-09-02,22425.00,10,3
+EMP1345,"NICOLE BLANKENSHIP",reynoldsbrian@brown.org,+971507910167,NULL,Indian,"IT Support",Finance,Dubai,Intern,EMP1306,1,2025-06-02,41371.00,NULL,4
+EMP1346,"BENJAMIN DIAZ",samanthajones@yahoo.com,+971516478522,Female,Syrian,"IT Support",Sales,"Abu Dhabi",Part-Time,EMP1337,1,2026-03-02,16505.00,5,3
+EMP1347,"DIANA HAMILTON",stephanie53@hotmail.com,+971436728703,NULL,Syrian,"Software Engineer",Finance,Dubai,Full-Time,EMP1425,1,2025-06-11,19781.00,6,3
+EMP1348,"MEGAN CAMACHO",schwartzbrian@gmail.com,+971571402721,Female,Lebanese,"Software Engineer",Sales,"Abu Dhabi",Intern,EMP1231,1,2024-06-20,20501.00,2,5
+EMP1349,"SABRINA SMITH",farmermark@chung.com,+971292657092,Male,Lebanese,"Software Engineer",Admin,Dubai,Part-Time,EMP1124,1,2025-03-17,32912.00,1,1
+EMP1350,"NICHOLAS GROSS",tayloramanda@gmail.com,+971943689988,NULL,Filipino,"Operations manager",Finance,"Abu Dhabi",Contract,EMP1098,1,2024-01-27,35135.00,1,4
+EMP1351,"MEGAN HOBBS",lhall@yahoo.com,+971151552955,Male,British,IT,IT,Dubai,Intern,EMP1012,1,2024-02-05,32951.00,3,3
+EMP1352,"ALVIN THOMPSON",mistyevans@campbell-nguyen.org,+971998256152,Male,Indian,"Data analyst",Marketing,"Abu Dhabi",Part-Time,EMP1414,1,2025-06-03,23009.00,3,3
+EMP1353,"SHERRY BENNETT",benjaminaguirre@hotmail.com,+971949457441,Female,Indian,"Operations manager",Finance,Dubai,Full-Time,EMP1261,1,2025-07-13,28524.00,11,3
+EMP1354,"SABRINA BUCK",garciabrandon@gmail.com,+971722557329,Female,Indian,"HR Manager",IT,Dubai,Full-Time,EMP1114,1,2026-05-10,43082.00,2,5
+EMP1355,"RACHEL MANNING",jennifergriffin@yahoo.com,+971088261370,Female,Lebanese,"Software Engineer",Finance,Dubai,Intern,EMP1102,1,2024-01-21,43796.00,0,3
+EMP1356,"DAVID HARRISON",jaimehester@hotmail.com,+971710326343,Female,Lebanese,Accountant,IT,"Abu Dhabi",Full-Time,EMP1003,1,2024-02-28,9185.00,34,5
+EMP1357,"EDWARD PALMER",antonio37@gmail.com,+971708439115,NULL,Egyptian,"Data analyst",Admin,Dubai,Contract,EMP1023,1,2023-10-30,34069.00,9,2
+EMP1358,"DOUGLAS WEAVER",sarahward@gmail.com,+971683938599,NULL,Egyptian,"Operations manager",Finance,Sharjah,Intern,EMP1146,1,2024-07-30,15308.00,34,3
+EMP1359,"KAYLA HARRIS",jonesadam@hotmail.com,+971391905237,Male,Bangladeshi,"Software Engineer","Human Resources",Dubai,Full-Time,EMP1416,1,2025-01-18,22254.00,0,4
+EMP1360,"AARON LOPEZ",mullinsheather@torres-davidson.com,+971056223006,NULL,Indian,"Data analyst",Sales,Dubai,Part-Time,EMP1063,1,2025-11-26,39321.00,14,2
+EMP1361,"JULIA RUSSELL",ballkevin@yahoo.com,+971767429033,Female,Filipino,IT,Admin,Dubai,Part-Time,EMP1053,1,2026-02-13,40096.00,33,3
+EMP1362,"BEVERLY HOUSTON",joshuawilliams@cook-schultz.net,+971142392293,NULL,Pakistani,"HR Manager",Admin,Dubai,Contract,EMP1011,1,2026-01-28,5036.00,19,2
+EMP1363,"LESLIE RANDALL",vpearson@hotmail.com,+971743497160,Female,Bangladeshi,"Data analyst","Human Resources",Sharjah,Intern,EMP1015,1,2023-09-08,12392.00,25,3
+EMP1364,"KIMBERLY GORDON",jacksondonna@jackson.com,+971567640488,Female,Bangladeshi,"Software Engineer",Sales,Sharjah,Part-Time,EMP1445,1,2024-01-24,16606.00,20,5
+EMP1365,"CHRISTOPHER JIMENEZ",jlee@lee-potter.org,+971374420934,NULL,Indian,"Sales executive",Finance,Dubai,Part-Time,EMP1042,1,2023-10-25,8751.00,9,3
+EMP1366,"CYNTHIA SMITH",lancegibson@salas.com,+971771945556,Female,Pakistani,"HR Manager",Operations,Sharjah,Contract,EMP1404,1,2024-02-08,34007.00,16,2
+EMP1367,"DEAN TAYLOR",kchen@hotmail.com,+971256361305,Male,Syrian,"Software Engineer",Operations,Sharjah,Contract,EMP1214,1,2024-06-29,40154.00,25,3
+EMP1368,"SHERRY RUSSELL","sherry russell@nomail.com",+971998810949,Female,Jordanian,"Sales executive","Human Resources",Dubai,Part-Time,EMP1097,1,2024-08-18,13829.00,4,3
+EMP1369,"TIMOTHY SHERMAN",connie33@williams.biz,+971650318409,Female,UAE,"IT Support",Finance,Sharjah,Contract,EMP1254,1,2024-10-11,2689.00,0,1
+EMP1370,"VANESSA MULLEN",christina84@black-collins.com,+971762740573,Female,UAE,"IT Support","Human Resources",Sharjah,Full-Time,EMP1259,1,2024-02-07,16692.00,28,3
+EMP1371,"MATTHEW BOWERS",scurtis@gmail.com,+971147751320,Female,Jordanian,"Sales executive",IT,Sharjah,Contract,EMP1070,1,2024-09-14,38038.00,21,3
+EMP1372,"TRACI CROSS",williamhudson@salazar.com,+971043342845,Female,Lebanese,"Software Engineer","Human Resources",Sharjah,Part-Time,EMP1227,1,2024-03-15,30586.00,15,3
+EMP1373,"ANTHONY DICKERSON",reedariana@wilson.info,+971234123315,Female,Syrian,"Marketing specialist",IT,"Abu Dhabi",Contract,EMP1255,1,2025-06-09,8782.00,5,3
+EMP1374,"JAMES GRIFFIN",dhahn@hotmail.com,+971642493895,Male,Sudanese,"Operations manager",IT,"Abu Dhabi",Intern,EMP1297,1,2025-11-14,16228.00,26,2
+EMP1375,"MR. KEVIN WEST",kenneth57@brown.net,+971542884113,NULL,Jordanian,"Data analyst",Admin,Sharjah,Part-Time,EMP1431,1,2025-08-23,27041.00,9,3
+EMP1376,"CAROL KING",hgarcia@yahoo.com,+971190235471,Male,British,"HR Manager","Human Resources","Abu Dhabi",Contract,EMP1097,1,2025-11-24,500.00,18,3
+EMP1377,"ALBERT HEATH",thompsonmary@colon.com,+971566095173,Male,UAE,IT,Finance,Sharjah,Part-Time,EMP1188,1,2025-03-05,25219.00,21,2
+EMP1378,"CAITLYN DELEON",jasonhudson@moore.net,+971206397930,Male,Sudanese,"Data analyst","Human Resources","Abu Dhabi",Intern,EMP1052,1,2024-08-14,21534.00,8,4
+EMP1379,"VICTORIA SOTO",lesliecross@yahoo.com,+971394641117,Male,Lebanese,"Data analyst",Sales,Dubai,Contract,EMP1184,1,2025-08-15,120000.00,19,3
+EMP1380,"MICHAEL JOHNSON",karicampbell@harris-mendoza.com,+971920589153,Female,Bangladeshi,"Sales executive",IT,Sharjah,Full-Time,EMP1174,1,2023-11-28,30062.00,23,3
+EMP1381,"DEAN SUAREZ",angel62@hotmail.com,+971133824049,Male,Syrian,"IT Support",Operations,"Abu Dhabi",Part-Time,EMP1079,1,2025-05-06,21350.00,30,2
+EMP1382,"CHARLES GONZALEZ",alicia27@yahoo.com,+971655433485,NULL,Pakistani,"Software Engineer",Finance,Dubai,Part-Time,EMP1261,1,2024-09-18,18999.00,30,5
+EMP1383,"DEREK MAHONEY",jenniferjenkins@gmail.com,+971061029386,Female,UAE,"Marketing specialist",Admin,Sharjah,Part-Time,EMP1352,1,2025-01-30,40935.00,17,3
+EMP1384,"CARMEN HANSON",paul68@erickson.org,+971593193914,Female,Pakistani,"Data analyst",Admin,Sharjah,Part-Time,EMP1161,1,2026-02-05,26591.00,0,3
+EMP1385,"RHONDA PATTERSON",riveramark@gmail.com,+971275510148,Male,Lebanese,IT,IT,"Abu Dhabi",Full-Time,EMP1126,1,2025-02-15,29205.00,35,3
+EMP1386,"ALEXANDER ORTEGA",marie04@hotmail.com,+971821817992,Female,Bangladeshi,"Sales executive",Marketing,Dubai,Contract,EMP1113,1,2024-04-01,39153.00,1,2
+EMP1387,"JOSEPH HENRY",arogers@yahoo.com,+971710452974,Female,Indian,IT,Finance,Sharjah,Contract,EMP1020,1,2023-06-13,25428.00,24,4
+EMP1388,"ROB3RT MOOR3",william58@kline.com,+971727244723,Male,Syrian,"HR Manager",Finance,"Abu Dhabi",Intern,EMP1040,1,2023-09-27,5347.00,35,3
+EMP1389,"DEBBIE WHITE",myersbrianna@shaw.com,+971324998813,Female,Syrian,IT,Finance,Dubai,Full-Time,EMP1076,1,2026-04-17,14220.00,18,2
+EMP1390,"JUSTIN STEWART",davidrodgers@gmail.com,+971247466434,Male,Sudanese,"Data analyst",Finance,"Abu Dhabi",Full-Time,EMP1029,1,2024-08-09,44553.00,19,3
+EMP1391,"ELIZABETH LOWE",danielrivera@gmail.com,+971759354780,Female,Egyptian,"Senior accountant",Marketing,Sharjah,Part-Time,EMP1280,1,2026-05-15,32236.00,17,3
+EMP1392,"ANGELA RICH",travisthomas@stewart.com,+971343440263,Female,Sudanese,"Sales executive",Finance,"Abu Dhabi",Full-Time,EMP1175,1,2026-05-20,39747.00,20,4
+EMP1393,"DOMINIC DANIEL","dominic daniel@nomail.com",+971886729675,Female,Sudanese,IT,"Human Resources",Sharjah,Contract,EMP1176,1,2023-08-12,31969.00,29,3
+EMP1394,"STEPHANIE WILKINS",mkoch@hotmail.com,+971471454678,Female,Indian,"HR Manager",Admin,Dubai,Part-Time,EMP1167,1,2025-03-23,35404.00,29,5
+EMP1395,"ROY LAWRENCE",browningbryan@padilla.com,+971979288834,Male,Sudanese,"Data analyst",IT,"Abu Dhabi",Part-Time,EMP1044,1,2024-08-15,12837.00,15,5
+EMP1396,"PAUL ZIMMERMAN",christinepage@yahoo.com,+971042272082,Female,Jordanian,"HR Manager",Admin,"Abu Dhabi",Full-Time,EMP1218,1,2023-11-10,39242.00,12,3
+EMP1397,"MICHAEL THOMPSON",joshua16@yahoo.com,+971523946042,Male,Lebanese,"Senior accountant",Marketing,"Abu Dhabi",Part-Time,EMP1314,1,2025-05-15,44802.00,6,5
+EMP1398,"CORY TORRES",scottreginald@gmail.com,+971472148206,Male,UAE,"IT Support",Finance,Sharjah,Contract,EMP1040,1,2025-08-05,32096.00,23,1
+EMP1399,"JILL BOONE",barbara55@yahoo.com,+971179220493,NULL,Egyptian,"Software Engineer","Human Resources","Abu Dhabi",Full-Time,EMP1191,1,2025-06-07,17797.00,30,4
+EMP1400,"DEANNA WILLIAMSON",courtneyguerrero@gmail.com,+971928931154,Female,Syrian,"Sales executive",Finance,"Abu Dhabi",Contract,EMP1005,1,2026-05-22,15034.00,13,5
+EMP1401,"MARK HILL",silvajoshua@garcia-hunter.com,+971882159699,Female,Indian,"Sales executive",Admin,Dubai,Part-Time,EMP1378,1,2025-05-26,7876.00,24,2
+EMP1402,"ISAAC GREGORY",stephenanderson@hotmail.com,+971863471170,NULL,Indian,"HR Manager",Marketing,Dubai,Intern,EMP1292,1,2024-05-03,37603.00,30,5
+EMP1403,"SARAH GARRISON",wwalters@meyer-pham.org,+971126638136,Female,Bangladeshi,"Marketing specialist","Human Resources",Dubai,Contract,EMP1041,1,2024-03-24,12349.00,19,3
+EMP1404,"ROBERT LUCAS",cruzjulia@floyd.biz,+971982794896,Female,UAE,"Software Engineer",IT,"Abu Dhabi",Full-Time,EMP1203,1,2023-08-06,6666.00,8,3
+EMP1405,"JOSE SUMMERS",chapmantom@hernandez.com,+971165710427,Female,Pakistani,"Sales executive",Admin,"Abu Dhabi",Full-Time,EMP1223,1,2024-12-28,25087.00,34,4
+EMP1406,"BRITTANY HORTON",hhernandez@smith.com,+971244729217,Male,Bangladeshi,"Data analyst",IT,"Abu Dhabi",Intern,EMP1345,1,2025-03-30,38095.00,24,3
+EMP1407,"CHERYL ANDERSON",cindyaguilar@yahoo.com,+971673582126,NULL,Syrian,"Marketing specialist","Human Resources","Abu Dhabi",Contract,EMP1350,1,2024-11-08,5162.00,14,2
+EMP1408,"JESSICA MASON",petersonchristine@ford-castillo.com,+971239158072,Female,Sudanese,"Marketing specialist",IT,Sharjah,Full-Time,EMP1051,1,2025-03-27,34418.00,3,5
+EMP1409,"ADRIAN WATSON",duncankevin@clay.biz,+971874623676,NULL,Indian,"IT Support",Sales,Sharjah,Full-Time,EMP1218,1,2024-08-30,19516.00,31,4
+EMP1410,"EMILY BALDWIN MD",markthornton@gmail.com,+971681588754,Male,British,"Marketing specialist",Sales,Sharjah,Part-Time,EMP1071,1,2026-04-25,10593.00,6,3
+EMP1411,"AUSTIN SHEPHERD",greentodd@bell.com,+971942831789,Female,Syrian,"Software Engineer","Human Resources","Abu Dhabi",Contract,EMP1399,1,2025-06-04,44057.00,30,3
+EMP1412,"JOHN SIMMONS",ocardenas@hernandez.org,+971530643686,Female,Syrian,"Data analyst",Admin,Dubai,Part-Time,EMP1417,1,2024-10-19,8944.00,23,5
+EMP1413,"JOSEPH CABRERA",tgolden@rice.com,+971863191707,Male,Egyptian,IT,Admin,Sharjah,Intern,EMP1207,1,2024-08-22,21071.00,21,3
+EMP1414,"SHAWN YODER",tracy75@yahoo.com,+971254074081,NULL,Pakistani,IT,Admin,Sharjah,Intern,EMP1083,1,2026-04-17,39498.00,29,4
+EMP1415,"DEBORAH JONES",christopher44@yahoo.com,+971559721545,NULL,Jordanian,"IT Support",IT,"Abu Dhabi",Contract,EMP1083,1,2026-03-19,15882.00,35,3
+EMP1416,"MEGAN PROCTOR",dvalencia@hotmail.com,+971939945803,Female,Filipino,"HR Manager",Marketing,"Abu Dhabi",Part-Time,EMP1253,1,2025-08-30,10520.00,22,4
+EMP1417,"RACHEL CHAMBERS",ymack@myers.com,+971165926440,Male,British,"IT Support",Operations,Sharjah,Contract,EMP1435,1,2025-10-06,20203.00,21,3
+EMP1418,"STEPHEN CARLSON",rhoffman@yahoo.com,+971073471501,NULL,Syrian,"Data analyst",Marketing,Dubai,Intern,EMP1401,1,2024-05-18,34112.00,27,3
+EMP1419,"KAREN MICHAEL",jasminejohnson@patel-hurst.com,+971016265247,NULL,Sudanese,"Sales executive",Finance,Dubai,Part-Time,EMP1233,1,2023-07-26,9636.00,23,2
+EMP1420,"WENDY TORRES",jvasquez@terry.com,+971692162582,NULL,Lebanese,"HR Manager",Finance,Dubai,Full-Time,EMP1238,1,2026-03-30,21156.00,3,3
+EMP1421,"BRENDA CHANG",cynthia10@yahoo.com,+971826908809,Female,Indian,"Senior accountant",IT,Sharjah,Full-Time,EMP1213,1,2025-11-16,14848.00,29,2
+EMP1422,"GINA HILL",sandersnathan@oliver.com,+971008405606,Male,Sudanese,"Data analyst",IT,"Abu Dhabi",Full-Time,EMP1333,1,2024-11-05,36664.00,27,5
+EMP1423,"REBECCA ROMERO",tina39@gmail.com,+971639038752,Female,Indian,IT,Admin,"Abu Dhabi",Full-Time,EMP1221,1,2023-07-10,20341.00,20,1
+EMP1424,"ERIN FOSTER",choilisa@thompson.com,+971685016074,Male,Lebanese,"Software Engineer",Finance,"Abu Dhabi",Full-Time,EMP1058,1,2025-01-06,29693.00,6,5
+EMP1425,"CHERYL BURKE",robbinsemma@wood-munoz.net,+971466795114,Female,Jordanian,"IT Support",Operations,Dubai,Part-Time,EMP1098,1,2023-08-06,6784.00,34,3
+EMP1426,"DIANA MOORE",jamesgould@yahoo.com,+971569845790,Female,Pakistani,"Data analyst",Admin,"Abu Dhabi",Full-Time,EMP1298,1,2024-10-29,31874.00,21,4
+EMP1427,"DAWN BROWN",rebeccagood@hotmail.com,+971008442502,Male,Jordanian,"Software Engineer",IT,"Abu Dhabi",Intern,EMP1095,1,2024-10-17,24726.00,7,5
+EMP1428,"LISA MARQUEZ",devonvaughn@ray.com,+971149187673,Female,Bangladeshi,"Senior accountant",Sales,"Abu Dhabi",Full-Time,EMP1261,1,2025-04-04,21518.00,12,3
+EMP1429,"ROBERT HANCOCK",ashleydouglas@yahoo.com,+971630522105,Male,Sudanese,IT,IT,Dubai,Contract,EMP1369,1,2024-06-04,13530.00,35,5
+EMP1430,"JAMES POLLARD",andreamurphy@gmail.com,+971982656977,Female,Pakistani,"Data analyst",Sales,"Abu Dhabi",Intern,EMP1130,1,2023-08-18,40994.00,26,3
+EMP1431,"MRS. PAMELA JOHNSON",burnskimberly@hotmail.com,+971084795734,Male,Indian,IT,Admin,Sharjah,Contract,EMP1356,1,2024-10-07,44990.00,20,4
+EMP1432,"DIANE JENKINS",victoria70@hotmail.com,+971796520324,Male,Filipino,"HR Manager",Admin,Dubai,Part-Time,EMP1135,1,2024-07-16,23007.00,31,3
+EMP1433,"HEATHER GRIFFIN","heather griffin@nomail.com",+971306130366,NULL,Syrian,"Data analyst","Human Resources","Abu Dhabi",Full-Time,EMP1422,1,2025-04-03,23906.00,28,3
+EMP1434,"JULIE THOMAS",joserollins@moss.com,+971010943117,Male,Filipino,"IT Support",IT,Dubai,Intern,EMP1390,1,2025-05-29,14123.00,2,4
+EMP1435,"JOSEPH WARREN",markjones@hotmail.com,+971111942744,Male,Bangladeshi,IT,"Human Resources","Abu Dhabi",Contract,EMP1376,1,2024-12-17,27378.00,24,3
+EMP1436,"CHRISTOPHER BASS",tinaarmstrong@gmail.com,+971822826224,NULL,Pakistani,"Data analyst",IT,"Abu Dhabi",Intern,EMP1376,1,2024-12-02,16684.00,15,3
+EMP1437,"NICOLE WALTON",emilybrown@murray.com,+971590129190,Female,Syrian,"Software Engineer",Marketing,Dubai,Part-Time,EMP1113,1,2023-06-10,5839.00,21,1
+EMP1438,"ISABELLA GARRISON",wbrown@yahoo.com,+971255111484,NULL,Filipino,"Software Engineer",IT,"Abu Dhabi",Part-Time,EMP1389,1,2023-10-24,2815.00,35,4
+EMP1439,"SHANE MILLER",brucelewis@hotmail.com,+971935050368,Male,British,"HR Manager",Marketing,"Abu Dhabi",Part-Time,EMP1416,1,2024-03-03,31381.00,28,1
+EMP1440,"PAMELA YOUNG",knguyen@yahoo.com,+971503523926,Male,Lebanese,"IT Support",Admin,Dubai,Intern,EMP1180,1,2025-10-14,35736.00,11,3
+EMP1441,"CHRISTOPHER REYES",lleblanc@barajas-miller.com,+971114015224,Male,Filipino,"Data analyst",IT,Dubai,Part-Time,EMP1081,1,2026-02-20,34923.00,17,4
+EMP1442,"ROBERT BREWER",mathew56@hotmail.com,+971489777229,Female,Egyptian,IT,Finance,Dubai,Contract,EMP1248,1,2026-01-23,40550.00,14,3
+EMP1443,"JENNIFER MORTON",martinezjoanna@lopez.info,+971629969399,Female,Lebanese,"IT Support",Admin,Dubai,Intern,EMP1230,1,2023-11-27,14810.00,35,3
+EMP1444,"KAYLA CONRAD",william22@yahoo.com,+971054863992,NULL,UAE,"Data analyst",IT,Dubai,Full-Time,EMP1377,1,2023-10-18,38411.00,31,3
+EMP1445,"EMILY FLORES",cynthiaperez@webb-boyer.biz,+971494974036,Female,Indian,"HR Manager",Admin,"Abu Dhabi",Full-Time,EMP1023,1,2024-08-01,14233.00,18,5
+EMP1446,"JONATHON MCCALL","jonathon mccall@nomail.com",+971662179260,Male,UAE,"Sales executive",Sales,"Abu Dhabi",Full-Time,EMP1172,1,2026-03-09,8454.00,26,1
+EMP1447,"CARLA PITTMAN",andersonrichard@yahoo.com,+971698534974,NULL,Bangladeshi,"IT Support",IT,Dubai,Part-Time,EMP1147,1,2024-06-16,18974.00,4,4
+EMP1448,"MARCUS ESPINOZA",morgan05@rodriguez-callahan.org,+971851517554,Male,Pakistani,"Senior accountant",IT,Dubai,Full-Time,EMP1087,1,2024-12-03,9468.00,30,3
+EMP1449,"JASMINE WEAVER",ifox@hotmail.com,+971302961699,Female,Egyptian,"Marketing specialist","Human Resources",Dubai,Full-Time,EMP1008,1,2025-04-06,22541.00,34,3
